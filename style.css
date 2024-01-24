@@ -1,0 +1,13 @@
+body{
+    background: gray;
+    text-align: center;
+    padding: 100px;
+}
+
+
+#melodyoutput{
+    margin-top:20px;
+    padding:100px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px gray;
+}
